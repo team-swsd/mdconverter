@@ -45,7 +45,7 @@ function mdtohtml(){
 #入力フォームの表示
 echo "<h1> Markdown HTML 相互変換ツール </h1>\n";
 
-echo "<form method=\"post\" action=\"mdconverter.php\">\n";
+echo "<form method=\"post\" action=\"index.php\">\n";
 
 echo "<br><textarea name=\"textbox\" rows=\"10\" cols=\"50\">". htmlspecialchars($text) ."</textarea>\n<br><br>\n";
 

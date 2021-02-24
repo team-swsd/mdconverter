@@ -19,5 +19,5 @@ MarkdownとHTMLを相互変換します。
     php composer.phar require erusev/parsedown
     php composer.phar require pixel418/markdownify
     ```
-3. mdconverter.phpにアクセス
+3. index.phpにアクセス
 

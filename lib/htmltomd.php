@@ -1,7 +1,7 @@
 <?php
 
 //This code is from http://www.sharkpp.net/blog/2015/07/05/how-to-japanese-html-to-markdown-in-php.html (PHP で日本語を含む HTML から Markdown に変換する方法)
-/* Distributed under an MIT license: https://codemirror.net/LICENSE */
+/* Distributed under an MIT license: https://opensource.org/licenses/mit-license.php */
 
 
 function text2entities($text)

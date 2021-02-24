@@ -132,8 +132,9 @@ echo "</div>\n";
 
 echo "</div>\n";
 
-
 echo $script;
 
 ?>
+
+<p>mdconverter, copyright (c) by <a href="https://twitter.com/mikuta0407">mikuta0407</a> and others</p>
 </html>

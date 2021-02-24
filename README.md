@@ -3,8 +3,7 @@
 ## これはなに?
 MarkdownとHTMLを相互変換します。
 
-![](https://pbs.twimg.com/media/Eu-aVdBVIAM2-we?format=png&name=small)
-![](https://pbs.twimg.com/media/Eu-aZeKVIAAOf37?format=png&name=small)
+![](https://i.imgur.com/jq9kJwu.png)
 
 ## 別途必要なもの
 1. composer (https://getcomposer.org/download/ のCommand-line installationをコピペでインストール可能)

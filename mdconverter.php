@@ -47,7 +47,7 @@ echo "<h1> Markdown HTML 相互変換ツール </h1>\n";
 
 echo "<form method=\"post\" action=\"mdconverter.php\">\n";
 
-echo "<br><textarea name=\"textbox\" rows=\"5\" cols=\"30\">". htmlspecialchars($text) ."</textarea>\n<br>\n";
+echo "<br><textarea name=\"textbox\" rows=\"10\" cols=\"50\">". htmlspecialchars($text) ."</textarea>\n<br><br>\n";
 
 echo "<button type=\"submit\" name=\"mode\" value=\"mdtohtml\" style=\"padding:10px;font-size:15px;\">Markdown to HTML</button><br><br>\n";
 echo "<button type=\"submit\" name=\"mode\" value=\"htmltomd\" style=\"padding:10px;font-size:15px;\">HTML to Markdown</button><br><br>\n";

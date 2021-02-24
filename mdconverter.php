@@ -1,5 +1,5 @@
 <?php
-ini_set('display_errors', "On");
+#ini_set('display_errors', "On");
 #require_once("lib/Parsedown.php");
 require_once("lib/htmltomd.php");
 require_once(dirname(__FILE__) . '/vendor/autoload.php');
@@ -13,7 +13,7 @@ function debug($str){
   }
 }
 
-
+$mode="";
 $mode=$_POST['mode'];
 
 $text="";
